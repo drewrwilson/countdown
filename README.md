@@ -1,24 +1,10 @@
 # Countdown
 
-## Make your own countdown webpage to your event or special day
+## Make a customized countdown webpage to your upcoming event
 
 ### Customize the text, the colors, the logo. Host it for free. You can even your own custom domain.
 
-# What is Countdown?
-
-This is an open source tool that helps you easily create a quick, customized single-page site shows a ticking countdown to your event. You just add the `name`, `description`, a `logo` and `date` of your upcoming event or special day, then Countdown generates a webpage with a live countdown of days, minutes, seconds until your event. Hosting is free and you can even add your own custom domain.
-
-**Quick setup, free hosting:** If you are familiar with github, it should only take you a few minutes to set up. This a [Jekyll](https://jekyllrb.com) project that uses [github pages](https://pages.github.com/) for free hosting.
-
-**Why?** I often organize events and I found myself making a handful of webpages like this for each event. I use theses countdown pages as a simple way to check on how long I have left for organizing and promo. I also use them as something to share on social media to build some excitement & anticipation among attendees and participants. Countdown is a way for me to standardize the process and share it. I made this project so it will be easy to fork, customized and launch so you can use it for your upcoming event too. I recommend putting it on `countdown.yourdomain.com`.
-
-![](assets/img/beyonce-countdown-01.gif)
-
-This is a jekyll project that makes it easy for you to make a quick webpage that counts down to your upcoming event or special day. Fork this repo, change a couple variables and you BAM you have a shareable countdown webpage.
-
 # Table of Contents
-
-*This Readme is a skeleton. It's currently a work in progress. The sections below will be filled out as the project comes along.*
 
 1. [What is Countdown?](#what-is-countdown)
 1. [Examples of Countdown pages in the wild](#examples-of-countdown-pages-in-the-wild)
@@ -32,6 +18,19 @@ This is a jekyll project that makes it easy for you to make a quick webpage that
   1. [Add your own domain name](#add-your-own-domain-name)
 1. [What is next for this project](#what-is-next-for-this-project)
 1. [How to contribute to this project](#how-to-contribute-to-this-project)
+
+
+# What is Countdown?
+
+This is an open source tool that helps you easily create a quick, customized single-page site shows a ticking countdown to your event. You just add the `name`, `description`, a `logo` and `date` of your upcoming event or special day, then Countdown generates a webpage with a live countdown of days, minutes, seconds until your event. Hosting is free and you can even add your own custom domain.
+
+**Quick setup, free hosting:** If you are familiar with github, it should only take you a few minutes to set up. This a [Jekyll](https://jekyllrb.com) project that uses [github pages](https://pages.github.com/) for free hosting.
+
+**Why?** I often organize events and I found myself making a handful of webpages like this for each event. I use theses countdown pages as a simple way to check on how long I have left for organizing and promo. I also use them as something to share on social media to build some excitement & anticipation among attendees and participants. Countdown is a way for me to standardize the process and share it. I made this project so it will be easy to fork, customized and launch so you can use it for your upcoming event too. I recommend putting it on `countdown.yourdomain.com`.
+
+![](assets/img/beyonce-countdown-01.gif)
+
+This is a jekyll project that makes it easy for you to make a quick webpage that counts down to your upcoming event or special day. Fork this repo, change a couple variables and you BAM you have a shareable countdown webpage.
 
 
 # Basic setup
