@@ -1,0 +1,60 @@
+---
+---
+
+body {
+  padding-top: 20px; /* 60px to make the container go all the way to the bottom of the topbar */
+  background:{{site.colors.background}};
+  font-family: {{site.fontfamily}};
+}
+#defaultCountdown {
+  color:{{site.colors.secondary}};
+  font-size:2em;
+}
+.hasCountdown {
+	background:none;
+	border:none;
+}
+
+h1 {
+	text-transform:uppercase;
+	color:{{site.colors.textcolor}};
+}
+h2 {
+  text-transform:uppercase;
+  color:{{site.colors.textcolor}};
+}
+
+@media(max-width:767px){
+  h1 {
+  }
+}
+@media(min-width:768px){
+  h1 {
+    font-size:4em;
+  }
+  h2 {
+    font-size:3em;
+  }
+
+}
+@media(min-width:992px){
+h1 {
+    font-size:4.5em;
+  }
+  h2 {
+    font-size:3.5em;
+  }
+
+}
+@media(min-width:1200px){
+  h1 {
+    font-size:5.5em;
+  }
+  h2 {
+    font-size:4em;
+  }
+
+}
+.background-highlight {
+  background-color:{{site.colors.primary}};
+}
