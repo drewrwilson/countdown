@@ -70,7 +70,7 @@ layout: default
   			var holiday = new Date();
   			holiday = new Date("{{site.utc}}");
   			$('#defaultCountdown').countdown({until: holiday});
-  			$('#year').text(austDay.getFullYear());
+  			$('#year').text(holiday.getFullYear());
   		});
 		</script>
     <!-- end of javascript includes  -->
