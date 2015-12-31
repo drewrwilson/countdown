@@ -9,8 +9,8 @@
 1. [What is Countdown?](#what-is-countdown)
 1. [Examples of Countdown pages in the wild](#examples-of-countdown-pages-in-the-wild)
 1. [Basic setup](#basic-setup)
-   1. [Set the date of your event](Set the date of your event)
-   1. [Set the name, description and externalLink of your event](#set-the-name-description-and-externalLink-of-your-event)
+   1. [Set the date of your event](#set-the-date-of-your-event)
+   1. [Set the name, description and externalLink of your event](##set-the-name-description-and-externallink-of-your-event)
    1. [Add your logo](#add-your-logo)
 1. [Advanced setup](#advanced-setup)
   1. [Choose your colors](#choose-your-colors)
@@ -107,5 +107,9 @@ If you need more support with task, I suggest checking the help section for [git
 # What is next for this project?
 
 I would like to make a few templates of countdown pages to be included as defaults in this project. It could be configured with a variable in the `_config.yml` file, like `template: green`. Then Jekyll will override the colors, font and design with the ones from the `green` template.
+
+# How to contribute to this project
+
+Please use the issues section of this page to suggest a feature, report a bug or to share a link where you're using Countdown. If you would like to contribute code, please fork this repo and send a pull request. You can also leave me a comment in the issues section if you would like to talk about this project. If you would like to send me a private message, just use my [public key](https://drewrwilson.com/drewrwilson_public_key.asc) to encrypt your message and post it as an issue.
 
 ![](assets/img/beyonce-countdown-02.gif)
