@@ -1,6 +1,6 @@
 # Countdown
 
-## Make a customized countdown webpage to your upcoming event
+## Make a customized countdown webpage for your upcoming event
 
 ### Customize the text, the colors, the logo. Host it for free. You can even use your own custom domain.
 
