@@ -32,7 +32,7 @@ This is an open source tool that helps you easily create a quick, customized sin
 
 # Examples of Countdown pages in the wild
 
-## [New England VegFest](http://countdown.newenglandvegfest.com)
+## [New England VegFest 2015 & 2016](http://countdown.newenglandvegfest.com)
 
 ![](assets/img/2016-new-england-vegfest-preview.png)
 
@@ -40,11 +40,11 @@ This is an open source tool that helps you easily create a quick, customized sin
 
 ![](assets/img/2015-open-data-day.png)
 
-## [Code for America Summit](https://github.com/drewrwilson/Countdown-to-the-Summit)
+## [Code for America Summit 2014 & 2015](https://github.com/drewrwilson/Countdown-to-the-Summit)
 
 ![](assets/img/2014-code-for-america-summit-countdown.png)
 
-## [Pizza Week](https://pizzaweek.net)
+## [Pizza Week 2015 & 2016](https://pizzaweek.net)
 
 ![](assets/img/2016-pizza-week-preview.png)
 
