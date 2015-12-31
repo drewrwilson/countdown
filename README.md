@@ -30,6 +30,16 @@ This is an open source tool that helps you easily create a quick, customized sin
 
 **Why?** I often organize events and I found myself making a handful of webpages like this for each event. I use theses countdown pages as a simple way to check on how long I have left for organizing and promo. I also use them as something to share on social media to build some excitement & anticipation among attendees and participants. Countdown is a way for me to standardize the process and share it. I made this project so it will be easy to fork, customized and launch so you can use it for your upcoming event too. I recommend putting it on `countdown.yourdomain.com`.
 
+# Examples of Countdown pages in the wild
+
+ * [New England VegFest](http://countdown.newenglandvegfest.com)
+
+ ![](assets/img/2016-new-england-vegfest-preview.png)
+
+ * [Open Data Day 2015](http://de.opendataday.org/countdown/)
+ * [Code for America Summit](https://github.com/drewrwilson/Countdown-to-the-Summit)
+ * [Pizza Week](https://pizzaweek.net)
+
 # Basic setup
 
 There are some basic variables that you need to set to make your own countdown webpage. They are all located in the `_config.yml` file in the main directory of this project.
@@ -93,13 +103,6 @@ Buy your domain name. I recommend using [NameCheap](https://www.namecheap.com/).
 After forking this repo, edit the `CNAME` file in your repo and add a single line with your domain. eg `yourdomain.com`. Although, I recommend doing this with a subdomain, eg 'countdown.yourdomain.com'.
 
 If you need more support with task, I suggest checking the help section for [github pages](https://pages.github.com).
-
-# Examples of Countdown pages in the wild
-
- * [New England VegFest](http://countdown.newenglandvegfest.com)
- * [Open Data Day 2015](http://de.opendataday.org/countdown/)
- * [Code for America Summit](https://github.com/drewrwilson/Countdown-to-the-Summit)
- * [Pizza Week](https://pizzaweek.net)
 
 # What is next for this project?
 
