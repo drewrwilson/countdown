@@ -40,6 +40,8 @@ This is an open source tool that helps you easily create a quick, customized sin
  * [Code for America Summit](https://github.com/drewrwilson/Countdown-to-the-Summit)
  * [Pizza Week](https://pizzaweek.net)
 
+ ![](assets/img/2016-pizza-week-preview.png)
+
 # Basic setup
 
 There are some basic variables that you need to set to make your own countdown webpage. They are all located in the `_config.yml` file in the main directory of this project.
