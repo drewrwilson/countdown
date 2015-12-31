@@ -112,4 +112,6 @@ I would like to make a few templates of countdown pages to be included as defaul
 
 Please use the issues section of this page to suggest a feature, report a bug or to share a link where you're using Countdown. If you would like to contribute code, please fork this repo and send a pull request. You can also leave me a comment in the issues section if you would like to talk about this project. If you would like to send me a private message, just use my [public key](https://drewrwilson.com/drewrwilson_public_key.asc) to encrypt your message and post it as an issue.
 
+# THANKS! ENJOY!
+
 ![](assets/img/beyonce-countdown-02.gif)
