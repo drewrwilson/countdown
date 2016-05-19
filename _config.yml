@@ -6,6 +6,7 @@ site to see how much longer is left until. Get excited!" #Required. short descri
 externalLink: "http://yourdomain.com" #Required. link to the main event page. this could be a webpage, a facebook event, an eventbrite page, where ever the main webpage is for your event
 url: "http://countdown.yourdomain.com" #(Optional) the full URL for this countdown page. This is neccesary for facebook share previews
 facebookEventLink: #(Optional) if you have a facebook event, put the link here and we'll add a "RSVP on facebook" link at the bottom.
+facebookEventText: #(Optional) set a name for the link of facebook event, otherwhise we'll add a "RSVP on facebook" on link at the bottom.
 hashtag: "" #(Optional) hashtag for the event, example "#hashtag". must be in quotes.
 colors: #(Optional)
   background: "#FFF" #color of the background of the page
