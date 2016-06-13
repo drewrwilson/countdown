@@ -1,8 +1,7 @@
-utc: "2020-07-01 0:00:00 -0500" #Required. The start time of the event. Best to use UTC format, but may work in other date formats too.
-name: "Name of your event" #Required. The human-readable name of the event
-logo: logo.png #Required. logo for the event. replace this logo in the project or add a new file and change the value of this variable
-description: "My event will be so awesome. Check this
-site to see how much longer is left until. Get excited!" #Required. short description of the event. this is used in the preview when the link is shared on facebook
+utc: "2016-06-17 19:00:00 +0000" #Required. The start time of the event. Best to use UTC format, but may work in other date formats too.
+name: "IT'S APEROL SPRITZ TIME!" #Required. The human-readable name of the event
+logo: william_eggleston.jpg #Required. logo for the event. replace this logo in the project or add a new file and change the value of this variable
+description: "Let's get some fresh air and a cold spritz!" #Required. short description of the event. this is used in the preview when the link is shared on facebook
 externalLink: "http://yourdomain.com" #Required. link to the main event page. this could be a webpage, a facebook event, an eventbrite page, where ever the main webpage is for your event
 url: "http://countdown.yourdomain.com" #(Optional) the full URL for this countdown page. This is neccesary for facebook share previews
 facebookEventLink: #(Optional) if you have a facebook event, put the link here and we'll add a "RSVP on facebook" link at the bottom.
